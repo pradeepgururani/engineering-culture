@@ -29,7 +29,7 @@ This repo is the companion to the book. It contains visual frameworks and refere
 | `Building a High-Performing Engineering Culture.png` | The full culture architecture — trust, decision rights, async work, and measurement layers visualized together |
 | `Culture Drives Engineering Performance.png` | The DORA correlation map showing how culture inputs connect to deployment and reliability outcomes |
 | `The Pillars of Elite Engineering.png` | The three core capability clusters that separate elite teams from the rest |
-| `Elite Performance Culture Roadmap.pdf` | The complete 90-day implementation roadmap — printable, team-shareable |
+| `90-Day Implementation Playbook.pdf` | The complete 90-day implementation roadmap — printable, team-shareable |
 
 ---
 
